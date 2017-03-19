@@ -1,0 +1,75 @@
+body {
+  position:relative;
+  Font-family: Georgia, Sans seriff;
+  background-size="cover"
+   }
+h1 {
+  font-size:;
+   border: solid transparent;
+  color:white;
+   background: rgba(215,215,215,0.7);
+ 
+}
+.nextpage, .previouspage {
+  position:absolute;
+  bottom: 0;
+  -webkit-appearance: icon;
+  -moz-appearance: icon;
+  appearance: icon; 
+  border: none;
+ text-decoration: none;
+   font-size: 16px;
+  color: white;
+  padding:0;
+  margin:50%;
+}
+#downicon {
+position:relative;
+  border-top: 10px solid rgba(215,215,215,0.9);
+  border-left: 50px solid Transparent;
+  border-right: 50px solid transparent;
+  width: 1;
+  height: 1;
+}
+h2 {
+  font-size:50px;
+  text-decoration: 1px solid underline;
+  border: solid transparent;
+  color:white;
+  background: rgba(215,215,215,0.7)
+}
+p {
+  font-family: georgia sans-seriff;
+}
+p.paragraphs, #text1-left, #text2-right {
+  font-size: 21px;
+  border:solid  transparent;
+  color:white;
+  background: rgba(215,215,215,0.7)
+}
+.familyfuntimes {
+  width:100%;
+  height;100%;
+  float:left;
+}
+.profilepic {
+   width: 100%;
+  height:100%;
+  float: right;
+}
+#text2-right {
+  float:right;
+  width:50%;
+ columns:2;
+  
+}
+#text1-left {
+ width:50%;
+  columns:2;
+}
+#middlemovie-higher {
+  align-text:center; 
+}
+#middlemovie-lower {
+  
+}
